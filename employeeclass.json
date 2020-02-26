@@ -1,3 +1,21 @@
-{
-    "name": "Aiden"
-}
+[
+    {
+    "firstname" : "Benjamin",
+    "lastname" : "Klass",
+    "email" : "klassbenjamin@gmail.com",
+    "job" : "Webmaster"
+    },
+    {
+    "firstname" : "Eric",
+    "lastname" : "Nelson",
+    "email" : "nelsoneric@gmail.com",
+    "job" : "Graphic designer"
+    },
+    {
+    "firstname" : "Sipho",
+    "lastname" : "Ngwenya",
+    "email" : "ngwenyasipho@gmail.com",
+    "job" : "Financial manager"
+    }
+]
+    
